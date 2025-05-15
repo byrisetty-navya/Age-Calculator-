@@ -42,6 +42,9 @@ JavaScript The JavaScript file contains the logic for calculating the age based 
 
 
 
+#Contributions
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 
 
